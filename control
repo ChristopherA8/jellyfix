@@ -1,0 +1,9 @@
+Package: com.chr1s.jellyfix
+Name: Jellyfix
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Fix spacing of jellyfish on iOS 14
+Maintainer: Chr1s
+Author: Chr1s
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
